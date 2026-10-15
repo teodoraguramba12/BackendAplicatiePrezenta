@@ -1,0 +1,1 @@
+rootProject.name = "prezenta_app_nou"
